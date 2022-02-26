@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for calling home sea-men and mariners, and inhibiting such to serve abroad without licence. Thursday the 9th of September, 1652. Ordered by the Parliament, that this Act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74453</idno>
+            <idno type="STC">Thomason E1061_77</idno>
+            <idno type="STC">ESTC R209357</idno>
+            <idno type="EEBO-CITATION">99868238</idno>
+            <idno type="PROQUEST">99868238</idno>
+            <idno type="VID">169125</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74453)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169125)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 158:E1061[77])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for calling home sea-men and mariners, and inhibiting such to serve abroad without licence. Thursday the 9th of September, 1652. Ordered by the Parliament, that this Act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>p. [2], 1729-1733.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field, Printer to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>On 13H2r: last word of first line of text: "present"; first word of line below initial: "or"; last word of last line on page: "English".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sailors --  England --  Legal status, laws, etc. --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169125:1" rendition="simple:additions"/>
+            <pb facs="tcp:169125:2"/>
+            <pb facs="tcp:169125:2" rendition="simple:additions"/>
+            <p>AN ACT For calling home Sea-men and Mariners, AND Inhibiting ſuch to ſerve abroad without LICENCE.</p>
+            <figure>
+               <figDesc>seal with shield and harp</figDesc>
+            </figure>
+            <p>Thurſday the 9<hi rend="sup">th</hi> of September, 1652.</p>
+            <p>
+               <hi>ORdered by the Parliament, That this Act be forthwith Print<g ref="char:EOLhyphen"/>ed and Publiſhed.</hi>
+            </p>
+            <p>Hen: Scobell, Cleric. Parliamenti.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field,</hi> Printer to the Parliament of <hi>England.</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169125:3"/>
+            <pb n="1729" facs="tcp:169125:3" rendition="simple:additions"/>
+            <head>AN ACT For calling home Sea-men and Mariners And Inhibiting ſuch to Serve abroad without LICENSE.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by an Act of this preſent Parliament, paſſed in <hi>April</hi> One thouſand ſix hundred and fifty, Entituled, <hi>An Act for preventing Injuries and Wrongs done to Mer<g ref="char:EOLhyphen"/>chants at Sea, in their Perſons, Ships or Goods, and prohibiting Mariners from ſerving un<g ref="char:EOLhyphen"/>der Foreign Princes or States without Licenſe,</hi> It was (for the Reaſons therein ſet forth) Enact<g ref="char:EOLhyphen"/>ed, That all Engliſh Mariners and Sea-men that were then ſerving abroad in the Service of any Foreign Prince or State, ſhould with<g ref="char:EOLhyphen"/>in the ſpace of Four Moneths then next enſu<g ref="char:EOLhyphen"/>ing (and now paſt) withdraw themſelves from ſuch Foreign Service, and repair home to ſerve the Commonwealth of <hi>England</hi> ac<g ref="char:EOLhyphen"/>cording to their duty, under pain to be ſeverely puniſhed: And that if any Engliſh Mari<g ref="char:EOLhyphen"/>ners and Sea-men ſhould from and after the paſsing of the ſaid recited Act, depart out of <hi>England,</hi> and enter into any Foreign Service (without ſpecial Licenſe firſt obtained) That every ſuch Offence ſhould be puniſhed with Death, as by that Act more at large appear<g ref="char:EOLhyphen"/>eth; which notwithſtanding, divers Engliſh
+<pb n="1730" facs="tcp:169125:4"/> Mariners and Seamen do ſtill continue a<g ref="char:EOLhyphen"/>broad in ſuch Service, without repairing home to ſerve this Commonwealth as that Act requireth; and others have withdrawn without Licenſe, contrary to the Tenor of the ſame Act, whereby they have given juſt cauſe for a Criminal Proceeding to be had a<g ref="char:EOLhyphen"/>gainſt them. Nevertheleſs, The Parlia<g ref="char:EOLhyphen"/>ment being unwilling to look ſeverely upon ſuch paſt Defaults, inclining rather to extend Grace and Mercy to all ſuch as ſhall yet come in and return to their Duties, within the time hereafter limited and appointed by this Act, do hold forth favor and pardon; and do hereby grant full and abſolute Pardon a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Remiſſi<g ref="char:EOLhyphen"/>on to all ſuch Engliſh Mariners and Seamen, as having ſerved in any ſuch Foreign Ser<g ref="char:EOLhyphen"/>vice, ſhall within the time herein afterwards limited, come home and give up their Names as is after mentioned. And be it Enacted and Ordained by this preſent Parliament, and by the Authority of the ſame, That all Ship-wrights, Ship-Carpenters, Mariners and Sea men belonging to this Commonwealth, ſerving-abroad in any ſhip or ſhips, Veſſel or Veſſels belonging to any Foreign Prince, State or Perſon; or which ſhall be imployed in building or repairing of any Ship or Veſſel for any Foreign Prince, State or Perſon whatſoever, ſhall within the ſeveral ſpaces of time hereafter limited withdraw from ſuch Service, and make their perſonal repairs home; To wit, ſuch as are in ſervice of the French, or of the States General of the Vnited Provinces, or any of the People there<g ref="char:EOLhyphen"/>of now within any of the ſame Provinces, or in the ſervice of them, or any other Foreign
+<pb n="1731" facs="tcp:169125:4"/> Prince, State or Perſon, in any of the Ships or Fleets in the Narrow Seas, or in the Northern Seas, within Ten weeks next inſuing the Publication of this Act: And for ſuch others as are ſerving in the Eaſt-In<g ref="char:EOLhyphen"/>dies, that they and every of them ſhall repair home within Two years after ſuch Publica<g ref="char:EOLhyphen"/>tion; and for ſuch as are ſerving in the Weſt-Indies, or any other far diſtant and Remote places, That they and every of them ſhall re<g ref="char:EOLhyphen"/>pair home within twelve Moneths after ſuch Publication as aforeſaid, &amp; give notice of ſuch their returning into their Native Countrey, to the Governor or Chief Magiſtrate of the Port or place where they arrive; who is to re<g ref="char:EOLhyphen"/>cord the ſame in a book, and to certifie the Te<g ref="char:EOLhyphen"/>nor thereof to the Councel of State, or Com<g ref="char:EOLhyphen"/>mittee or Commiſſioners of the Navy or Ad<g ref="char:EOLhyphen"/>miralty for the time being; to the end care may be taken for their preſent Imployment when they ſhall make their Addreſſes for the ſame, upon pain of all and every the Ship-wrights, Ship-carpenters, Mariners and Sea men offending in the Premiſes, to be proceeded againſt, and Adjudged to ſuffer the pains of Death, and likewiſe to Forfeit as in caſe of Felony. And it is Ordained and Enacted by the Authority aforeſaid, That the ſaid Offen<g ref="char:EOLhyphen"/>ces and every of them ſhall be Enquired on, and Heard and Determined by and before ſuch diſcreet perſons, as ſhall be appointed by the Lords Commiſsioners of the Great Seal of <hi>England</hi> for the time being, to be Commiſ<g ref="char:EOLhyphen"/>ſioners by Commiſsion of <hi>Oyer</hi> and <hi>Terminer,</hi> for the Tryal of ſuch Offenders: And the ſaid Commiſsioners ſo to be appointed as
+<pb n="1732" facs="tcp:169125:5"/> aforeſaid, ſhall have full Power and Autho<g ref="char:EOLhyphen"/>rity by vertue of this Act, and are hereby en<g ref="char:EOLhyphen"/>abled to Enquire, Hear and Determine of the Offences aforeſaid, according to the Tenor and true Meaning of this Act, and to put their Iudgements in execution, and cauſe the ſame to be duly Executed.</p>
+            <p>Provided always, And be it Enacted by the Authority aforeſaid, That none ſhall be Im<g ref="char:EOLhyphen"/>peached for any Offence againſt this Statute, unleſs the ſame Impeachment be proſecuted or begun within the year next after the Re<g ref="char:EOLhyphen"/>turn of ſuch Offender into <hi>England;</hi> And that ſuch perſon and perſons as ſhall be Proſecuted or Tryed upon this Law, ſhall not onely be received and admitted to make any lawful Proof he or they can by witneſs or otherwiſe, for his or their Diſcharge and Defence in that behalf; But that alſo it ſhall be in the Power of the ſaid Commiſsioners, where they upon the hearing of the Matter ſhall finde it juſt or meet in their Diſcretion ſo to do, to admit the Oath of ſuch perſon and perſons ſo brought to Trial for his or their Excuſe, by reaſon of Remoteneſs of place, or invincible ignorance, or want of Opportunity to come home, or what other matter ſhall be juſt.</p>
+            <p>Provided alſo, and be it Declared and En<g ref="char:EOLhyphen"/>acted by the Authority aforeſaid, That no<g ref="char:EOLhyphen"/>thing in this Act contained ſhall be interpreted to the Excuſe or Extenuation of the Crimes and Offences of any Ship-wright, Ship-car<g ref="char:EOLhyphen"/>penter, Sea man, Mariner or other perſon be<g ref="char:EOLhyphen"/>longing to this Commonwealth, who ſhall be taken in the ſervice of any other State or perſon againſt this Commonwealth; but that
+<pb n="1733" facs="tcp:169125:5"/> they ſhall be lyable to the ſevereſt Penalties of the Law in that behalf, as ſoon as they may be Apprehended and brought forth to anſwer for ſuch their Demerits, any thing herein ſpe<g ref="char:EOLhyphen"/>cified to the contrary notwithſtanding: And to the end due Notice may be taken of this Act, for the better Obſervance of the ſame by all perſons therein concerned, It is laſtly En<g ref="char:EOLhyphen"/>acted and Ordained by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That this Act be duly publiſhed upon the <hi>Exchange London,</hi> three ſeveral days at the time of the Concourſe of Merchants there, by the Serjeant at Arms attending the Par<g ref="char:EOLhyphen"/>liament; which is and ſhall be conſtrued to be the Publication intended and formerly expreſ<g ref="char:EOLhyphen"/>ſed in this Act: And nevertheleſs, it is left to the Councel of State to cauſe ſuch further publication to be thereof made in Maritine Towns or otherwiſe, as they ſhall judge fit and expedient.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <opener>
+               <date>
+                  <hi>Thurſday the 9<hi rend="sup">th</hi> of September, </hi>1652.</date>
+            </opener>
+            <p>ORdered by the Parliament, That this Act be forthwith Printed and Pub<g ref="char:EOLhyphen"/>liſhed.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
